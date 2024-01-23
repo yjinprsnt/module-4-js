@@ -1426,3 +1426,17 @@
 //   // Change code above this line
 //   return filteredNumbers;
 // }
+
+// function getCommonElements(firstArray, secondArray) {
+//   const commonElements = [];
+//   // Change code below this line
+
+//   firstArray.forEach(el => {
+//     if (secondArray.includes(el)) {
+//       commonElements.push(el);
+//     }
+//   });
+//   return commonElements;
+// }
+
+// // Change code above this line
