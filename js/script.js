@@ -1490,3 +1490,22 @@
 //   // Change code above this line
 //   return commonElements;
 // };
+
+// function changeEven(numbers, value) {
+//   // Change code below this line
+//   const newArr = [];
+
+//   numbers.forEach(el => {
+//     if (el % 2 === 0) {
+//       newArr.push(el + value);
+//     } else if (!el % 2 === 0) {
+//       newArr.push(el);
+//     }
+//   });
+//   return newArr;
+//   // Change code above this line
+// }
+
+// console.log(changeEven([1, 2, 3, 4, 5], 10));
+// console.log(changeEven([44, 13, 81, 92, 36, 54], 100));
+// console.log(changeEven([17, 24, 68, 31, 42], 100));
