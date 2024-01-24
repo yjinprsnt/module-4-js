@@ -1557,3 +1557,9 @@
 // // Change code below this line
 
 // const genres = books.flatMap(book => book.genres);
+
+// // Change code below this line
+// const getUserNames = users => {
+//   return users.map(user => user.name);
+// };
+// // Change code above this line
