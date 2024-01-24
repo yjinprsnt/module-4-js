@@ -1509,3 +1509,7 @@
 // console.log(changeEven([1, 2, 3, 4, 5], 10));
 // console.log(changeEven([44, 13, 81, 92, 36, 54], 100));
 // console.log(changeEven([17, 24, 68, 31, 42], 100));
+
+// const planets = ['Earth', 'Mars', 'Venus', 'Jupiter'];
+// // Change code below this line
+// const planetsLengths = planets.map(planet => planet.length);
