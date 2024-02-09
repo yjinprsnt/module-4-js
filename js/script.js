@@ -1637,3 +1637,8 @@
 //   return users.filter(user => user.age >= minAge && user.age <= maxAge);
 // };
 // // Change code above this line
+
+// // Change code below this line
+// const getUsersWithFriend = (users, friendName) =>
+//   users.filter(({friends}) => friends.includes(friendName));
+// // Change code above this line
