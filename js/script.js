@@ -1704,3 +1704,7 @@
 
 // const eachElementInThirdIsEven = thirdArray.every(item => item / 2 === 0);
 // const eachElementInThirdIsOdd = thirdArray.every(item => item / 2 === 0);
+
+// // Change code below this line
+// const isEveryUserActive = users => users.every(user => user.isActive);
+// // Change code above this line
