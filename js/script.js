@@ -1722,3 +1722,7 @@
 
 // const anyElementInThirdIsEven = thirdArray.some(item => item / 2 !== 0);
 // const anyElementInThirdIsOdd = thirdArray.some(item => item / 2 !== 0);
+
+// // Change code below this line
+// const isAnyUserActive = users => users.some(user => user.isActive);
+// // Change code above this line
