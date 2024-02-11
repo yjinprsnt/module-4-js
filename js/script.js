@@ -1685,3 +1685,8 @@
 
 // const bookWithTitle = books.find(book => book.title === BOOK_TITLE);
 // const bookByAuthor = books.find(book => book.author === AUTHOR);
+
+// // Change code below this line
+// const getUserWithEmail = (users, email) =>
+//   users.find(user => user.email === email);
+// // Change code above this line
