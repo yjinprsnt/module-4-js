@@ -1642,3 +1642,13 @@
 // const getUsersWithFriend = (users, friendName) =>
 //   users.filter(({friends}) => friends.includes(friendName));
 // // Change code above this line
+
+// Change code below this line
+// const getFriends = users => {
+//   const allFriends = users.flatMap(user => user.friends);
+//   const filterAllFriends = allFriends.filter(
+//     (allFriend, index, arr) => arr.indexOf(allFriend) === index
+//   );
+//   return filterAllFriends;
+// };
+// // Change code above this line
