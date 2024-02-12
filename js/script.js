@@ -1749,3 +1749,9 @@
 // ];
 // // Change code below this line
 
+// const totalAveragePlaytimePerGame = players.reduce((total, player) => {
+//   return total + player.playtime / player.gamesPlayed;
+// }, 0);
+
+// console.log(totalAveragePlaytimePerGame);
+
