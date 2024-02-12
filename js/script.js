@@ -1839,3 +1839,13 @@
 // const sortByAscendingBalance = users =>
 //   [...users].sort((a, b) => a.balance - b.balance);
 // // Change code above this line
+
+// // Change code below this line
+// const sortByDescendingFriendCount = users =>
+//   [...users].sort((a, b) => b.friends.length - a.friends.length);
+// // Change code above this line
+
+// // Change code below this line
+// const sortByName = users =>
+//   [...users].sort((a, b) => a.name.localeCompare(b.name));
+// // Change code above this line
