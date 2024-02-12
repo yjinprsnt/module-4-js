@@ -1755,3 +1755,7 @@
 
 // console.log(totalAveragePlaytimePerGame);
 
+// // Change code below this line
+// const calculateTotalBalance = users =>
+//   users.reduce((total, user) => total + user.balance, 0);
+
