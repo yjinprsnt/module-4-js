@@ -1882,3 +1882,14 @@
 //   .sort((firstName, secondName) => firstName.localeCompare(secondName));
 
 // console.log(names);
+
+// // Change code below this line
+// const getNamesSortedByFriendCount = users =>
+//   users
+//     .map(user => ({ name: user.name, friendsCount: user.friends.length }))
+//     .sort(
+//       (firstFriends, secondFriends) =>
+//         firstFriends.friendsCount - secondFriends.friendsCount
+//     )
+//     .map(user => user.name);
+// // Change code above this line
