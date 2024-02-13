@@ -1893,3 +1893,12 @@
 //     )
 //     .map(user => user.name);
 // // Change code above this line
+
+// // Change code below this line
+// const getSortedFriends = users =>
+//   users
+//     .flatMap(user => user.friends)
+//     .filter((friend, index, arr) => arr.indexOf(friend) === index)
+//     .sort();
+
+// // Change code above this line
